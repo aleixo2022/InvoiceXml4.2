@@ -13,6 +13,9 @@ instalar dependencias cx_freeze
 pip install cx-Freeze
 devlopment:cxfreeze ./invoiceXml.py
 production:python ./setup.py build
+
+ou 
+python setup.py build
 '''
 
 inicio = time.time()
